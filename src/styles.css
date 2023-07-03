@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.fa-sun {
+  color: rgb(255, 196, 0);
+}
+.fa-cloud-sun {
+  color: rgb(29, 29, 136);
+}
+.precipitation-wind {
+  display: block;
+  margin: auto 0;
+  text-align: right;
+}
+.weather-container {
+  margin-top: 20px;
+}
